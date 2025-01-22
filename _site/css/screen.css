@@ -62,7 +62,7 @@ p, address {
 }
 
 .bottom-cta {
-  background: linear-gradient(to bottom, #00d8e0 0%, #00d8e0 100%);
+  background: linear-gradient(to bottom, #9d0000 0%, #9d0000 100%);
   color: #fff;
   text-align: center;
   margin: 0;
@@ -99,7 +99,7 @@ p, address {
 .hero {
   color: #ffffff;
   text-align: center;
-  background: linear-gradient(to bottom, #00d8e0 0%, #00d8e0 100%) no-repeat #b75f5f;
+  background: linear-gradient(to bottom, #9d0000 0%, #9d0000 100%) no-repeat #b75f5f;
   padding-top: 50px;
 }
 .hero p {
@@ -144,9 +144,10 @@ p, address {
 }
 
 header {
-  color: #00d8e0;
+  color: #fff;
   padding: 20px 0;
-  background: #00d8e0 !important; /* Force this shit */
+  background: #9d0000; /* Old browsers */
+  background: linear-gradient(to bottom, #9d0000 0%, #9d0000 100%) no-repeat #9d0000;
 }
 header a {
   color: #fff;
@@ -551,7 +552,7 @@ blockquote:before {
   color: #fff;
   text-decoration: none;
   padding: 10px 30px;
-  background: #00d8e0;
+  background: #9d0000;
   border-radius: 3px;
   border: 1px solid rgba(255, 255, 255, 0.5);
   transition: 0.2s ease-in-out;
@@ -559,7 +560,7 @@ blockquote:before {
 
 .button a:hover, input[type=submit]:hover {
   border: 1px solid #fff;
-  background: #00d8e0;
+  background: #9d0000;
   cursor: pointer;
 }
 
@@ -572,7 +573,7 @@ blockquote:before {
 
 .button.alt a:hover {
   background: #fff;
-  color: #00d8e0;
+  color: #9d0000;
 }
 
 textarea, input, button, select {
@@ -690,7 +691,7 @@ nav a:hover {
   }
   nav a.highlight:hover {
     background: #fff;
-    color: #00d8e0;
+    color: #9d0000;
   }
 }
 nav a.active {

@@ -62,7 +62,7 @@ p, address {
 }
 
 .bottom-cta {
-  background: linear-gradient(to bottom, #9d0000 0%, #9d0000 100%);
+  background: linear-gradient(to bottom, #00d8e0 0%, #00d8e0 100%);
   color: #fff;
   text-align: center;
   margin: 0;
@@ -99,7 +99,7 @@ p, address {
 .hero {
   color: #ffffff;
   text-align: center;
-  background: linear-gradient(to bottom, #9d0000 0%, #9d0000 100%) no-repeat #b75f5f;
+  background: linear-gradient(to bottom, #00d8e0 0%, #00d8e0 100%) no-repeat #b75f5f;
   padding-top: 50px;
 }
 .hero p {
@@ -146,8 +146,8 @@ p, address {
 header {
   color: #fff;
   padding: 20px 0;
-  background: #9d0000; /* Old browsers */
-  background: linear-gradient(to bottom, #9d0000 0%, #9d0000 100%) no-repeat #9d0000;
+  background: #00d8e0; /* Old browsers */
+  background: linear-gradient(to bottom, #00d8e0 0%, #00d8e0 100%) no-repeat #00d8e0;
 }
 header a {
   color: #fff;
@@ -553,7 +553,7 @@ blockquote:before {
   color: #fff;
   text-decoration: none;
   padding: 10px 30px;
-  background: #9d0000;
+  background: #00d8e0;
   border-radius: 3px;
   border: 1px solid rgba(255, 255, 255, 0.5);
   transition: 0.2s ease-in-out;
@@ -561,7 +561,7 @@ blockquote:before {
 
 .button a:hover, input[type=submit]:hover {
   border: 1px solid #fff;
-  background: #9d0000;
+  background: #00d8e0;
   cursor: pointer;
 }
 
@@ -574,7 +574,7 @@ blockquote:before {
 
 .button.alt a:hover {
   background: #fff;
-  color: #9d0000;
+  color: #00d8e0;
 }
 
 textarea, input, button, select {

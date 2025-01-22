@@ -167,8 +167,7 @@ header .company-name a {
 }
 header .company-name img {
   display: block;
-  width: 100%;
-  height: auto; 
+  width: auto;
 }
 
 .content {
@@ -692,7 +691,7 @@ nav a:hover {
   }
   nav a.highlight:hover {
     background: #fff;
-    color: #9d0000;
+    color: #00d8e0;
   }
 }
 nav a.active {

@@ -166,7 +166,8 @@ header .company-name a {
 }
 header .company-name img {
   display: block;
-  width: auto;
+  width: 100%;
+  height: auto; 
 }
 
 .content {

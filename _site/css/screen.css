@@ -144,10 +144,9 @@ p, address {
 }
 
 header {
-  color: #fff;
+  color: #00d8e0;
   padding: 20px 0;
-  background: #00d8e0; /* Old browsers */
-  background: linear-gradient(to bottom, #00d8e0 0%, #00d8e0 100%) no-repeat #00d8e0;
+  background: #00d8e0 !important; /* Force this shit */
 }
 header a {
   color: #fff;

@@ -145,7 +145,7 @@ p, address {
 
 header {
   color: #fff;
-  padding: 20px 0;
+  padding: 50px 0; 
   background: #00d8e0; /* Old browsers */
   background: linear-gradient(to bottom, #00d8e0 0%, #00d8e0 100%) no-repeat #00d8e0;
 }
@@ -163,7 +163,6 @@ header .company-name {
   line-height: 1.2; 
   padding: 10px 0; 
 }
-
 header .company-name a {
   display: inline-block;
 }
